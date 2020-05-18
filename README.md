@@ -9,9 +9,9 @@
 
 #### Projects
 
-Now it only includes libraries for **Android**. It will be extended to support more libraries on **Node.js**, **Python**, and **Flutter**.
+Now it is available on **Android** and **Node.js**. It will be extended to support more libraries on **Python**, and **Flutter**.
 
 - [Android](https://github.com/dailystudio/devbricksx-android)
-- Node.js
+- [Node.js](https://github.com/dailystudio/devbricksx-js)
 - Python
 - Flutter
